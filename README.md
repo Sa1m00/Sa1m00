@@ -13,8 +13,6 @@ i alson like to learn web development and web development framework like React, 
 
 - 🌱 I’m currently learning Python 
 
-- 🤔 I’m looking for a job 
-
 - 💬 Ask me about ** Html, Css, Javascript, React, Node **
 
 - 📫 How to reach me lillianasa@hotmail.it
